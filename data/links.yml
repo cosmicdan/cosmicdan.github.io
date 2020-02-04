@@ -1,0 +1,14 @@
+---
+- group: Social media
+  items:
+    - title: reddit
+      url: https://www.reddit.com
+      icon: fab fa-reddit
+    - title: Facebook
+      url: https://www.facebook.com
+      icon: fab fa-facebook
+- group: Utilities
+  items:
+    - title: GitHub
+      url: https://www.github.com
+      icon: fab fa-github
