@@ -1,5 +1,0 @@
-baseURL = "https://www.cosmicdan.com"
-languageCode = "en-us"
-title = "CosmicDan.com - WIP"
-publishDir = "docs"
-theme = "bootstrap-bp-cosmicdan"
